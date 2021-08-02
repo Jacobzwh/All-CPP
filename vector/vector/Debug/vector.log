@@ -1,0 +1,4 @@
+﻿  vector.cpp
+C:\Users\Ziwei Huang\Desktop\C++\vector\vector\vector.cpp(29,6): warning C4101: “id_3”: 未引用的局部变量
+C:\Users\Ziwei Huang\Desktop\C++\vector\vector\vector.cpp(31,6): warning C4101: “did_3”: 未引用的局部变量
+  vector.vcxproj -> C:\Users\Ziwei Huang\Desktop\C++\vector\Debug\vector.exe

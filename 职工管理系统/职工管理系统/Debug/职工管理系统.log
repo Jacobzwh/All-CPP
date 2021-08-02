@@ -1,0 +1,6 @@
+﻿  workerManager.cpp
+C:\Users\Ziwei Huang\source\repos\职工管理系统\职工管理系统\workerManager.h(1,13): warning C4081: 应输入“newline”；找到“;”
+  职工管理系统.cpp
+C:\Users\Ziwei Huang\source\repos\职工管理系统\职工管理系统\workerManager.h(1,13): warning C4081: 应输入“newline”；找到“;”
+  正在生成代码...
+  职工管理系统.vcxproj -> C:\Users\Ziwei Huang\source\repos\职工管理系统\Debug\职工管理系统.exe

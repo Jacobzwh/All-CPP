@@ -1,0 +1,4 @@
+student:  A,   dept:  20,   salary:  1020
+student:  B,   dept:  30,   salary:  1030
+student:  C,   dept:  40,   salary:  1040
+student:  D,   dept:  50,   salary:  1050
